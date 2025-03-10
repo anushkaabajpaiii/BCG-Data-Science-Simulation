@@ -1,1 +1,1 @@
-# BGS-Data-Science-Simulation
+# BCG-Data-Science-Simulation
