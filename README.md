@@ -7,7 +7,7 @@ PowerCo, an energy provider, is experiencing customer churn. This project aims t
 
 #Dataset Information
 
-The project uses the following datasets:
+The project uses the following datasets :
 
 client_data.csv - Historical customer data including electricity consumption, contract details, and churn status.
 
